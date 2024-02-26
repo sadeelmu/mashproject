@@ -13,7 +13,7 @@ A few pictures of the final product:
 <div></div>
 
 <div>
-    <img src="pictures/Mash Profile 2.png" alt="Mash Profile Screenshot" width="300">
+  <img src="pictures/Mash Profile 2.png" alt="Mash Profile Screenshot" width="300">
   <img src="pictures/Mash Profile 3.png" alt="Mash Profile Screenshot" width="300">
 </div>
 <div></div>
