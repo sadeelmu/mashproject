@@ -11,6 +11,6 @@ A few pictures of the final product:
 </div>
 
 <div>
-  <img src="pictures/Mash Sign In.png" alt="Mash Sign In Screenshot" width="300">
+  <img src="pictures/Mash Sign in.png" alt="Mash Sign In Screenshot" width="300">
   <img src="pictures/Mash Sign Out.png" alt="Mash Sign Out Screenshot" width="300">
 </div>
