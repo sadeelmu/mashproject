@@ -1,5 +1,6 @@
 # mashproject
-Mash is a cross-platform dating application I developed using Flutter for a freelance project.  
+Mash is a cross-platform dating application developed using Flutter for a freelance project. Throughout the implementation process I managed application architecture, structure, user interface and services, and integration.
+•Conducted continuous validation through comprehensive testing for bugs and issues.
 You can find it on the App Store [here](https://apps.apple.com/gb/app/mash/id6444130930). 
 
 You can find it on the Google Store [here](https://play.google.com/store/apps/details?id=com.amro.mash&hl=en_US). 
