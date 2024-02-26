@@ -9,3 +9,8 @@ A few pictures of the final product:
   <img src="pictures/MashCategory.webp" alt="MashCategory Screenshot" width="300">
   <img src="pictures/MashChat.webp" alt="MashChat Screenshot" width="300">
 </div>
+
+<div>
+  <img src="pictures/Mash Sign In.png" alt="Mash Sign In Screenshot" width="300">
+  <img src="pictures/Mash Sign Out.png" alt="Mash Sign Out Screenshot" width="300">
+</div>
